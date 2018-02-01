@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.6.0)
+  - FLAnimatedImage (1.0.12)
+  - SDWebImage/Core (4.2.3)
+  - SDWebImage/GIF (4.2.3):
+    - FLAnimatedImage (~> 1.0)
+    - SDWebImage/Core
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage/GIF
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: ae9609ba7db325ccb721d4c09f350a7062c74aae
+
+COCOAPODS: 1.4.0
